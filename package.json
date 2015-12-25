@@ -1,0 +1,30 @@
+{
+  "name": "hello-react-ts",
+  "version": "0.1.0",
+  "dependencies": {
+    "babel-runtime": "^6.3.19",
+    "classnames": "^2.2.1",
+    "events": "^1.1.0",
+    "immutable": "^3.7.6",
+    "lodash": "^3.10.1",
+    "object-assign": "^4.0.1",
+    "oneref": "^0.1.3",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3"
+  },
+  "devDependencies": {
+    "babel": "^6.3.26",
+    "babel-core": "^6.3.26",
+    "babel-eslint": "^5.0.0-beta6",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "eslint": "^1.10.3",
+    "json-loader": "^0.5.4",
+    "tap-spec": "^4.1.1",
+    "tape": "^4.3.0",
+    "ts-loader": "^0.7.2",
+    "typescript": "^1.7.5",
+    "webpack": "^1.12.9"
+  }
+}
